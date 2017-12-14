@@ -1,0 +1,8 @@
+{
+  "name": "ccq_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CQDOTCOM/personalweb",
+  "author": "<chewchongqiang@gmail.com>",
+  "license": "MIT"
+}
