@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/CQDOTCOM/personalweb",
   "author": "<chewchongqiang@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+  "start": "harp server --port $PORT"
+},
+  "dependencies": {
+    "harp": "*"
+  }
 }
